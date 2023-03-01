@@ -14,7 +14,8 @@ namespace GPOpgaver
         */
         public static void Interchange(ref int x, ref int y)
         {
-            //Write your solution here
+            x = y;
+            y = x;
         }
         /*
         * Introduktion til Algoritmer
@@ -24,7 +25,9 @@ namespace GPOpgaver
         */
         public static void InterchangeTriple(ref int x, ref int y, ref int z)
         {
-            //Write your solution here
+            x = z;
+            y = x;
+            z = y;
         }
         /*
          * Introduktion til Algoritmer
@@ -34,8 +37,10 @@ namespace GPOpgaver
          */
         public static bool IsPalindrome(string s)
         {
-            throw new NotImplementedException();
-            //Write your solution here
+            char[] sRev = s.ToCharArray();
+            Array.Reverse(sRev);
+            
+            return s == new string(sRev);
         }
         /*
          * Introduktion til Algoritmer
