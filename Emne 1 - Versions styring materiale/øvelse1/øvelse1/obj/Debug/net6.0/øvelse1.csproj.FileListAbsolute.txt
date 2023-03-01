@@ -1,0 +1,15 @@
+D:\TechCollege\H1\øvelse1\øvelse1\bin\Debug\net6.0\øvelse1.exe
+D:\TechCollege\H1\øvelse1\øvelse1\bin\Debug\net6.0\øvelse1.deps.json
+D:\TechCollege\H1\øvelse1\øvelse1\bin\Debug\net6.0\øvelse1.runtimeconfig.json
+D:\TechCollege\H1\øvelse1\øvelse1\bin\Debug\net6.0\øvelse1.dll
+D:\TechCollege\H1\øvelse1\øvelse1\bin\Debug\net6.0\øvelse1.pdb
+D:\TechCollege\H1\øvelse1\øvelse1\obj\Debug\net6.0\øvelse1.csproj.AssemblyReference.cache
+D:\TechCollege\H1\øvelse1\øvelse1\obj\Debug\net6.0\øvelse1.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechCollege\H1\øvelse1\øvelse1\obj\Debug\net6.0\øvelse1.AssemblyInfoInputs.cache
+D:\TechCollege\H1\øvelse1\øvelse1\obj\Debug\net6.0\øvelse1.AssemblyInfo.cs
+D:\TechCollege\H1\øvelse1\øvelse1\obj\Debug\net6.0\øvelse1.csproj.CoreCompileInputs.cache
+D:\TechCollege\H1\øvelse1\øvelse1\obj\Debug\net6.0\øvelse1.dll
+D:\TechCollege\H1\øvelse1\øvelse1\obj\Debug\net6.0\refint\øvelse1.dll
+D:\TechCollege\H1\øvelse1\øvelse1\obj\Debug\net6.0\øvelse1.pdb
+D:\TechCollege\H1\øvelse1\øvelse1\obj\Debug\net6.0\øvelse1.genruntimeconfig.cache
+D:\TechCollege\H1\øvelse1\øvelse1\obj\Debug\net6.0\ref\øvelse1.dll
