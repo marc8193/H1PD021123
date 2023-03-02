@@ -1,0 +1,79 @@
+* {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+*::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+    background-color: #181818;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+    font-family: 'Inter', sans-serif;
+    color: #CACACA;
+    font-size: 48px;
+}
+
+h2 {
+    @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+    font-family: 'Inter', sans-serif;
+    color: #9C9C9C;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+p {
+    @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+    font-family: 'Inter', sans-serif;
+    color: #CACACA;
+    font-size: 24px;
+}
+
+#line {
+    height: 2px;
+    width: 660px;
+    background-color: #CACACA;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#homepage {
+    width: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+#image {
+    overflow: hidden;
+    height: 60%;
+}
+
+#content {
+    text-align: center;
+    height: 40%;
+}
+
+#about {
+    text-align: center;
+    width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#profile {
+    border-radius: 50%;
+    width: 320px;
+    height: 320px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

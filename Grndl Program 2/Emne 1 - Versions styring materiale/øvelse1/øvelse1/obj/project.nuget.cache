@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8tut9QTx4chmuXE8+J0iF7kL8XM/Svc+h04M+bKAQHSQbfxoI2e+pYt9kgYhhUXFlOGCHjVNPpXOxCkfbNH0xw==",
+  "dgSpecHash": "2bsjIWHu38cZ+N5KQMgveMfaKaGhA0hkakRWnHzAaZuI9tgNoqLvlPFe6w+MN+B0ul1u2s4M3tpt1XtSgw3ZhA==",
   "success": true,
-  "projectFilePath": "D:\\TechCollege\\H1\\øvelse1\\øvelse1\\øvelse1.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\mhl\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.10\\microsoft.aspnetcore.app.ref.6.0.10.nupkg.sha512",
-    "C:\\Users\\mhl\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.10\\microsoft.windowsdesktop.app.ref.6.0.10.nupkg.sha512"
-  ],
+  "projectFilePath": "/home/mhl/codeBase/TechCollege/H1PD021123/Grndl Program 2/Emne 1 - Versions styring materiale/øvelse1/øvelse1/øvelse1.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
