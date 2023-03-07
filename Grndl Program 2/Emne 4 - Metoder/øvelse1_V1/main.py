@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-
 def quickSort(array):
     arrLen = len(array)
     global arrMoves
