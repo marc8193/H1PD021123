@@ -19,6 +19,7 @@ h1 {
     font-family: 'Inter', sans-serif;
     color: #CACACA;
     font-size: 48px;
+    margin: 15px;
 }
 
 h2 {
@@ -27,6 +28,7 @@ h2 {
     color: #9C9C9C;
     font-size: 32px;
     font-weight: 400;
+    margin: 15px;
 }
 
 p {
@@ -67,9 +69,9 @@ p {
 #about {
     text-align: center;
     width: 80%;
-    display: block;
     margin-left: auto;
     margin-right: auto;
+    position: relative;    
 }
 
 #profile {
@@ -77,4 +79,20 @@ p {
     width: 320px;
     height: 320px;
     bottom: 0;
+}
+
+#topBtn {
+    @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+    font-family: 'Inter', sans-serif;
+    color: #CACACA;
+    font-size: 24px;
+    background-color: #2980b9;
+    border-style: none;
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    margin-bottom: 5%;
 }
