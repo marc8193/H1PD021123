@@ -54,6 +54,9 @@ p {
 #image {
     overflow: hidden;
     height: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: end;
 }
 
 #content {
@@ -73,7 +76,5 @@ p {
     border-radius: 50%;
     width: 320px;
     height: 320px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    bottom: 0;
 }
