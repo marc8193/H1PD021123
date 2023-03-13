@@ -43,20 +43,19 @@ namespace Rap_Finands
                 Console.WriteLine("0. Afslut");
 
                 Console.Write(">");
-                string valg1 = Console.ReadLine();
-                int valg = int.Parse(valg1+1);
+                string valg = Console.ReadLine();
                 
                 switch (valg) {
-                    case 1:
+                    case "1":
                         dos_opretKonto();
                         break;
-                    case 2:
+                    case "2":
                         dos_opretTransaktion(dos_findKonto());
                         break;
-                    case 3:
+                    case "3":
                         dos_udskrivKonto(dos_findKonto());
                         break;
-                    case 0:
+                    case "0":
                         blivVedogved = false;
                         break;
                     default:
@@ -147,7 +146,7 @@ namespace Rap_Finands
             if (saldo + beløb < 0) return false;
             var t = new Transaktion();
             t.tekst = tekst;
-            t.amount = belob;
+            t.amount = beløb;
             t.saldo = t.amount + saldo;
             t.dato = DateTime.Now;
             
@@ -156,10 +155,10 @@ namespace Rap_Finands
         }
         public static float findSaldo(Konto k) {
             Transaktion seneste = new Transaktion();
-            DateTime senesteDato = DateTime.MinValue;
+            DateTime date = DateTime.MinValue;
             foreach(var t in k.transaktioner) {
-                if (t.dato > senesteDato) {
-                    senesteDato = t.dato;
+                if (t.dato > date) {
+                    date = t.dato;
                     seneste = t;
                 }
             }
@@ -168,11 +167,9 @@ namespace Rap_Finands
         public static void gem() 
         {
             File.WriteAllText(datafil,JsonConvert.SerializeObject(konti));
-            File.Delete(datafil); //Fjern debug fil
         }
         public static void hent()
         {
-            datafil = "debug_bank.json"; //Debug - brug en anden datafil til debug ~Konrad
             if (File.Exists(datafil)) {
                 string json = File.ReadAllText(datafil);
                 konti = JsonConvert.DeserializeObject<List<Konto>>(json);
