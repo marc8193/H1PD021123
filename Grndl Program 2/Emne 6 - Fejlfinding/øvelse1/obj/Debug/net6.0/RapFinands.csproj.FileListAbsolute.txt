@@ -1,0 +1,34 @@
+C:\Users\lkri\source\repos\RapFinands\RapFinands\obj\Debug\net6.0\RapFinands.csproj.AssemblyReference.cache
+C:\Users\lkri\source\repos\RapFinands\RapFinands\obj\Debug\net6.0\RapFinands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lkri\source\repos\RapFinands\RapFinands\obj\Debug\net6.0\RapFinands.AssemblyInfoInputs.cache
+C:\Users\lkri\source\repos\RapFinands\RapFinands\obj\Debug\net6.0\RapFinands.AssemblyInfo.cs
+C:\Users\lkri\source\repos\RapFinands\RapFinands\obj\Debug\net6.0\RapFinands.csproj.CoreCompileInputs.cache
+C:\Users\lkri\source\repos\RapFinands\RapFinands\bin\Debug\net6.0\RapFinands.exe
+C:\Users\lkri\source\repos\RapFinands\RapFinands\bin\Debug\net6.0\RapFinands.deps.json
+C:\Users\lkri\source\repos\RapFinands\RapFinands\bin\Debug\net6.0\RapFinands.runtimeconfig.json
+C:\Users\lkri\source\repos\RapFinands\RapFinands\bin\Debug\net6.0\RapFinands.dll
+C:\Users\lkri\source\repos\RapFinands\RapFinands\bin\Debug\net6.0\RapFinands.pdb
+C:\Users\lkri\source\repos\RapFinands\RapFinands\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\lkri\source\repos\RapFinands\RapFinands\obj\Debug\net6.0\RapFinands.csproj.CopyComplete
+C:\Users\lkri\source\repos\RapFinands\RapFinands\obj\Debug\net6.0\RapFinands.dll
+C:\Users\lkri\source\repos\RapFinands\RapFinands\obj\Debug\net6.0\refint\RapFinands.dll
+C:\Users\lkri\source\repos\RapFinands\RapFinands\obj\Debug\net6.0\RapFinands.pdb
+C:\Users\lkri\source\repos\RapFinands\RapFinands\obj\Debug\net6.0\RapFinands.genruntimeconfig.cache
+C:\Users\lkri\source\repos\RapFinands\RapFinands\obj\Debug\net6.0\ref\RapFinands.dll
+D:\TechCollege\H1PD021123\Grndl Program 2\Emne 6 - Fejlfinding\øvelse1\bin\Debug\net6.0\RapFinands.exe
+D:\TechCollege\H1PD021123\Grndl Program 2\Emne 6 - Fejlfinding\øvelse1\bin\Debug\net6.0\RapFinands.deps.json
+D:\TechCollege\H1PD021123\Grndl Program 2\Emne 6 - Fejlfinding\øvelse1\bin\Debug\net6.0\RapFinands.runtimeconfig.json
+D:\TechCollege\H1PD021123\Grndl Program 2\Emne 6 - Fejlfinding\øvelse1\bin\Debug\net6.0\RapFinands.dll
+D:\TechCollege\H1PD021123\Grndl Program 2\Emne 6 - Fejlfinding\øvelse1\bin\Debug\net6.0\RapFinands.pdb
+D:\TechCollege\H1PD021123\Grndl Program 2\Emne 6 - Fejlfinding\øvelse1\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\TechCollege\H1PD021123\Grndl Program 2\Emne 6 - Fejlfinding\øvelse1\obj\Debug\net6.0\RapFinands.csproj.AssemblyReference.cache
+D:\TechCollege\H1PD021123\Grndl Program 2\Emne 6 - Fejlfinding\øvelse1\obj\Debug\net6.0\RapFinands.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechCollege\H1PD021123\Grndl Program 2\Emne 6 - Fejlfinding\øvelse1\obj\Debug\net6.0\RapFinands.AssemblyInfoInputs.cache
+D:\TechCollege\H1PD021123\Grndl Program 2\Emne 6 - Fejlfinding\øvelse1\obj\Debug\net6.0\RapFinands.AssemblyInfo.cs
+D:\TechCollege\H1PD021123\Grndl Program 2\Emne 6 - Fejlfinding\øvelse1\obj\Debug\net6.0\RapFinands.csproj.CoreCompileInputs.cache
+D:\TechCollege\H1PD021123\Grndl Program 2\Emne 6 - Fejlfinding\øvelse1\obj\Debug\net6.0\RapFinands.csproj.CopyComplete
+D:\TechCollege\H1PD021123\Grndl Program 2\Emne 6 - Fejlfinding\øvelse1\obj\Debug\net6.0\RapFinands.dll
+D:\TechCollege\H1PD021123\Grndl Program 2\Emne 6 - Fejlfinding\øvelse1\obj\Debug\net6.0\refint\RapFinands.dll
+D:\TechCollege\H1PD021123\Grndl Program 2\Emne 6 - Fejlfinding\øvelse1\obj\Debug\net6.0\RapFinands.pdb
+D:\TechCollege\H1PD021123\Grndl Program 2\Emne 6 - Fejlfinding\øvelse1\obj\Debug\net6.0\RapFinands.genruntimeconfig.cache
+D:\TechCollege\H1PD021123\Grndl Program 2\Emne 6 - Fejlfinding\øvelse1\obj\Debug\net6.0\ref\RapFinands.dll
