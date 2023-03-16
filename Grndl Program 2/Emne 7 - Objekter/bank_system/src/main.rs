@@ -52,7 +52,7 @@ fn main() {
                 },
                 "Show balance" => {
                     for account in &accounts {
-                        println!("{:?}", account);
+                        account.show();
                     }
                 },
                 _ => break,
