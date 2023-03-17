@@ -1,0 +1,8 @@
+[package]
+name = "øvelse2"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cli-table = "0.4.7"
+inquire = "0.6.0"

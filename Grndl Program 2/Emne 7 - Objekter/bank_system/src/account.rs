@@ -3,7 +3,7 @@ use std::vec;
 use uuid::Uuid;
 use cli_table::{print_stdout, Table, WithTitle};
 
-#[derive(Table, Debug)]
+#[derive(Table)]
 pub struct Account {
     #[table(title = "ID")]
     pub id: Uuid,
