@@ -12,20 +12,22 @@ pub struct Item {
     description: String
 }
 
-pub struct VendingMachines {
-    items: Vec<Item>,
+pub struct VendingMachine {
+    pub items: Vec<Item>,
 }
 
-impl VendingMachines {
-    pub fn new(items: Vec<Item>) -> Self {
-        Self { items }
+impl VendingMachine {
+    pub fn new() -> Self {
+        Self { items: Vec::new() }
     }
 
     pub fn preview(&self) {
         assert!(print_stdout(self.items.with_title()).is_ok());
     }
 
-    pub fn dispense(&self, item: &mut Item) {
+    pub fn dispense(&mut self, index: usize) {
+        let mut item = &mut self.items[index];
+
         item.quantity -= 1;
     }   
 }
