@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TechCollege\\H1PD021123\\Databaseserver\\JokesDB\\JokesDB\\JokesDB.csproj": {}
+    "C:\\Users\\mhl\\OneDrive - RTX\\Dokumenter\\TechCollege\\o\\H1PD021123\\Databaseserver\\JokesDB\\JokesDB\\JokesDB.csproj": {}
   },
   "projects": {
-    "D:\\TechCollege\\H1PD021123\\Databaseserver\\JokesDB\\JokesDB\\JokesDB.csproj": {
+    "C:\\Users\\mhl\\OneDrive - RTX\\Dokumenter\\TechCollege\\o\\H1PD021123\\Databaseserver\\JokesDB\\JokesDB\\JokesDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TechCollege\\H1PD021123\\Databaseserver\\JokesDB\\JokesDB\\JokesDB.csproj",
+        "projectUniqueName": "C:\\Users\\mhl\\OneDrive - RTX\\Dokumenter\\TechCollege\\o\\H1PD021123\\Databaseserver\\JokesDB\\JokesDB\\JokesDB.csproj",
         "projectName": "JokesDB",
-        "projectPath": "D:\\TechCollege\\H1PD021123\\Databaseserver\\JokesDB\\JokesDB\\JokesDB.csproj",
+        "projectPath": "C:\\Users\\mhl\\OneDrive - RTX\\Dokumenter\\TechCollege\\o\\H1PD021123\\Databaseserver\\JokesDB\\JokesDB\\JokesDB.csproj",
         "packagesPath": "C:\\Users\\mhl\\.nuget\\packages\\",
-        "outputPath": "D:\\TechCollege\\H1PD021123\\Databaseserver\\JokesDB\\JokesDB\\obj\\",
+        "outputPath": "C:\\Users\\mhl\\OneDrive - RTX\\Dokumenter\\TechCollege\\o\\H1PD021123\\Databaseserver\\JokesDB\\JokesDB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mhl\\AppData\\Roaming\\NuGet\\NuGet.Config",

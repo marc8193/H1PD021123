@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uWrlf8ZOz8N2G0YgKfUyILbYfvl0nmh7qzu46dRsfxzZtF3LjbPtwiAJl2WeP7F7myv8OHrZl2z4QfCnSSZVcw==",
+  "dgSpecHash": "1oPg1qu9h5ZITZF6GFRhMWAhOMgNI3TUMmRObVSml2JRF21vW6EPIFEzD6LQNZM8nvnMu3gDdcF2IIsgik496g==",
   "success": true,
-  "projectFilePath": "D:\\TechCollege\\H1PD021123\\Databaseserver\\JokesDB\\JokesDB\\JokesDB.csproj",
+  "projectFilePath": "C:\\Users\\mhl\\OneDrive - RTX\\Dokumenter\\TechCollege\\o\\H1PD021123\\Databaseserver\\JokesDB\\JokesDB\\JokesDB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mhl\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\mhl\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
